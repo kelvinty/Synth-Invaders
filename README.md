@@ -1,6 +1,7 @@
 # Synth Invaders
 
 ![image](https://github.com/kelvinty/Synth-Invaders/assets/46994966/ecc4be4e-dc2f-457e-959e-0589fb7bea9f)
+![image](https://github.com/kelvinty/Synth-Invaders/assets/46994966/996acb5d-ae40-4351-8478-57e3ed7a74ff)
 
 
 ## Descrição
